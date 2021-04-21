@@ -52,7 +52,7 @@ en:
   #rightNavigationButtons:
   # - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
   heroButtons:
-    # - {permalink: "https://easychair.org/cfp/latinr2021", text: "Call for Papers"}
+   - {permalink: "https://easychair.org/cfp/latinr2021", text: "Call for Papers"}
   # - {permalink: "/schedule", text: "Schedule"}
   # - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
 
