@@ -9,7 +9,7 @@ ref: call-for-papers
 #### LatinR2021 <- Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
 <br>
 <br>
-La cuarta versión de la conferencia se llevará a cabo en línea, entre los días 10 y 12 de noviembre. Al igual que el año anterior, la semana anterior a la conferencia se realizarán tutoriales sobre diferentes temas vinculados a R. 
+La cuarta versión de la conferencia se llevará a cabo en línea, entre los días 10 y 12 de noviembre. Al igual que en 2020, la semana anterior a la conferencia se realizarán tutoriales sobre diferentes temas vinculados a R. 
 
 A continuación se presentan los tópicos de interés para esta edición, las modalidades de presentación y las fechas relevantes para el envío de propuestas.
 

@@ -52,6 +52,7 @@ en:
   #rightNavigationButtons:
   # - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
   heroButtons:
+    # - {permalink: "https://easychair.org/cfp/latinr2021", text: "Call for Papers"}
   # - {permalink: "/schedule", text: "Schedule"}
   # - {permalink: "https://latinr2020.eventbrite.com", text: "Register here!"}
 
@@ -144,6 +145,7 @@ es:
   rightNavigationButtons:
    #- {permalink: "https://latinr2020.eventbrite.com", text: "Registrate acá!"}
   heroButtons:
+   - {permalink: "https://easychair.org/cfp/latinr2021", text: "Convocatoria a presentar trabajos"}
    #- {permalink: "/cronograma", text: "Cronograma"}
    #- {permalink: "https://latinr2020.eventbrite.com", text: "Registrate acá!"}
 
@@ -245,6 +247,7 @@ pt:
   rightNavigationButtons:
    - {permalink: "https://latinr2020.eventbrite.com", text: "Assine aqui!"}
   heroButtons:
+   - {permalink: "https://easychair.org/cfp/latinr2021", text: "Chamada de trabalhos"}
    - {permalink: "/programacao", text: "Programação"}
    - {permalink: "https://latinr2020.eventbrite.com", text: "Assine aqui!"}
 
