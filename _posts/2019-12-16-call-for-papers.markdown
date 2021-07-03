@@ -37,7 +37,7 @@ Economy, Data Journalism, etc...)
 
 ###### Oral presentations
 
-Communications about research results, progress reports, or specific developments that, because their originality or potential applications in the use or development of R in academia or industry, is of interest to the regional community of R users. Presenters will have 15 minutes + 5 minutes for Q&A. 
+Presentations about research results, progress reports, or specific developments that, because their originality or potential applications in the use or development of R in academia or industry, is of interest to the regional community of R users. Presenters will have 15 minutes + 5 minutes for Q&A. 
 
 Submissions must include a summary of no more than two pages including text, tables and figures. For the case of projects including Shiny applications or other interactive formats, they must also include the URL in which the application is available.
 
@@ -91,7 +91,7 @@ Submissions must include:
 
 ##### Registration
 
-At least one author from each oral communication, poster or round table presentation must be registered for participating in the conference.
+At least one author from each oral presentation, poster or round table presentation must be registered for participating in the conference.
 
 
 ###### Presentations and posters from previous versions
